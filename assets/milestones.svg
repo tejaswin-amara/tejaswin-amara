@@ -1,0 +1,106 @@
+<svg viewBox="0 0 900 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes slideInLeft { 
+        from { opacity: 0; transform: translateX(-30px); } 
+        to { opacity: 1; transform: translateX(0); } 
+      }
+      @keyframes glowPulse {
+        0%, 100% { opacity: 0.6; filter: drop-shadow(0 0 4px #14b8a6); }
+        50% { opacity: 1; filter: drop-shadow(0 0 8px #14b8a6); }
+      }
+      @keyframes fillBar {
+        from { width: 0; }
+        to { width: var(--bar-width, 100%); }
+      }
+      .timeline-item { animation: slideInLeft 0.6s ease-out forwards; }
+      .timeline-item:nth-child(2) { animation-delay: 0.1s; }
+      .timeline-item:nth-child(3) { animation-delay: 0.2s; }
+      .timeline-item:nth-child(4) { animation-delay: 0.3s; }
+      .timeline-item:nth-child(5) { animation-delay: 0.4s; }
+      .timeline-marker { animation: glowPulse 3s ease-in-out infinite; }
+      .timeline-label { font-family: 'JetBrains Mono', monospace; fill: #e2e8f0; }
+      .timeline-date { font-size: 12px; fill: #94a3b8; }
+      .timeline-title { font-size: 15px; font-weight: 600; fill: #e2e8f0; }
+      .timeline-desc { font-size: 13px; fill: #cbd5e1; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="600" fill="#0f172a"/>
+
+  <!-- Grid -->
+  <defs>
+    <pattern id="grid-timeline" width="50" height="50" patternUnits="userSpaceOnUse">
+      <path d="M 50 0 L 0 0 0 50" fill="none" stroke="#1e293b" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="600" fill="url(#grid-timeline)"/>
+
+  <!-- Title -->
+  <text x="450" y="50" font-size="32" font-weight="700" text-anchor="middle" fill="#e2e8f0" font-family="'JetBrains Mono', monospace">
+    Milestones & Impact
+  </text>
+
+  <!-- Central timeline line -->
+  <line x1="120" y1="100" x2="120" y2="550" stroke="#134e4a" stroke-width="2"/>
+
+  <!-- Gradient glow on timeline -->
+  <defs>
+    <linearGradient id="timelineGlow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#14b8a6;stop-opacity:0.3" />
+      <stop offset="50%" style="stop-color:#14b8a6;stop-opacity:0.1" />
+      <stop offset="100%" style="stop-color:#134e4a;stop-opacity:0.2" />
+    </linearGradient>
+  </defs>
+  <rect x="110" y="100" width="20" height="450" fill="url(#timelineGlow)"/>
+
+  <!-- Milestone 1: ICACIML 2026 -->
+  <g class="timeline-item">
+    <circle class="timeline-marker" cx="120" cy="140" r="8" fill="#14b8a6"/>
+    <rect x="200" y="120" width="650" height="90" rx="6" fill="#1e293b" stroke="#134e4a" stroke-width="1"/>
+    
+    <text class="timeline-date" x="210" y="138">March 2026</text>
+    <text class="timeline-title" x="210" y="160">Published IoMT Security Research</text>
+    <text class="timeline-desc" x="210" y="182">Privacy-preserving Federated Learning for Internet of Medical Things · ICACIML 2026 conference</text>
+    <rect x="210" y="195" width="630" height="4" rx="2" fill="#0f172a"/>
+    <rect x="210" y="195" width="476" height="4" rx="2" fill="#14b8a6" style="width: 476px;"/>
+  </g>
+
+  <!-- Milestone 2: Google Solution Challenge -->
+  <g class="timeline-item">
+    <circle class="timeline-marker" cx="120" cy="250" r="8" fill="#06b6d4"/>
+    <rect x="200" y="230" width="650" height="90" rx="6" fill="#1e293b" stroke="#134e4a" stroke-width="1"/>
+    
+    <text class="timeline-date" x="210" y="248">Q1–Q2 2026</text>
+    <text class="timeline-title" x="210" y="270">Google Solution Challenge</text>
+    <text class="timeline-desc" x="210" y="292">"Build with AI" participant · Exploring AI-driven solutions to real-world social and environmental challenges</text>
+    <rect x="210" y="305" width="630" height="4" rx="2" fill="#0f172a"/>
+    <rect x="210" y="305" width="380" height="4" rx="2" fill="#06b6d4" style="width: 380px;"/>
+  </g>
+
+  <!-- Milestone 3: Viwentiaa 2026 -->
+  <g class="timeline-item">
+    <circle class="timeline-marker" cx="120" cy="360" r="8" fill="#a78bfa"/>
+    <rect x="200" y="340" width="650" height="90" rx="6" fill="#1e293b" stroke="#134e4a" stroke-width="1"/>
+    
+    <text class="timeline-date" x="210" y="358">April 2026</text>
+    <text class="timeline-title" x="210" y="380">Viwentiaa 2026 Technical Events</text>
+    <text class="timeline-desc" x="210" y="402">Organized campus festival technical track · Created WATT-THE-QUIZ (electronics &amp; logic competition) question bank</text>
+    <rect x="210" y="415" width="630" height="4" rx="2" fill="#0f172a"/>
+    <rect x="210" y="415" width="567" height="4" rx="2" fill="#a78bfa" style="width: 567px;"/>
+  </g>
+
+  <!-- Milestone 4: Origins Asia CT&SO Role -->
+  <g class="timeline-item">
+    <circle class="timeline-marker" cx="120" cy="470" r="8" fill="#f97316"/>
+    <rect x="200" y="450" width="650" height="90" rx="6" fill="#1e293b" stroke="#134e4a" stroke-width="1"/>
+    
+    <text class="timeline-date" x="210" y="468">Ongoing</text>
+    <text class="timeline-title" x="210" y="490">Chief Technology &amp; Strategy Officer, Origins Asia</text>
+    <text class="timeline-desc" x="210" y="512">Strategic transition across distributed offices · Maintaining backend infrastructure · Integrating internal audits</text>
+    <rect x="210" y="525" width="630" height="4" rx="2" fill="#0f172a"/>
+    <rect x="210" y="525" width="630" height="4" rx="2" fill="#f97316" style="width: 630px;"/>
+  </g>
+
+</svg>
