@@ -15,16 +15,16 @@ $ whoami
 Tejaswin Amara — B.Tech CS&IT (Y25), KL University, Hyderabad
 
 $ roles
-Building Sovereign-OS · Chief Technology & Strategy Officer, Origins Asia
+Building Sovereign-OS · Founder's Officer Intern, Origins Asia
 
 $ philosophy
-Verify against source, not against the docs.
+Details in the bigger picture.
 ```
 
 ## 🛠️ Currently building
 
 - 🛡️ **[Sovereign-OS](https://github.com/tejaswin-amara/Sovereign-OS)** — a PowerShell-based AI agent governance framework: audits, verified documentation, persistent agent directives, and "Singularity Doctrine," a one-shot OS sanitization script
-- 🧭 **Chief Technology & Strategy Officer, Origins Asia** — leading a strategic transition across multiple Hyderabad offices, distributed backend infrastructure, and internal project audits
+- 🧭 **Founder's Officer Intern, Origins Asia** — leading a strategic transition across multiple Hyderabad offices, distributed backend infrastructure, and internal project audits
 - 📶 **[KL Sync](https://github.com/tejaswin-amara/kl-sync)** — an unofficial attendance-tracking PWA and ERP client for KL University
 - 🎮 **[Quiz Platform](https://github.com/tejaswin-amara/Quiz-Platform)** — a full-stack real-time multiplayer quiz app
 - 🧠 **KLU Personal Assistant** — a PWA and knowledge-base assistant for academic tracking
@@ -59,14 +59,6 @@ Verify against source, not against the docs.
 
 </div>
 
-## 🐍 Contribution graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tejaswin-amara/tejaswin-amara/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tejaswin-amara/tejaswin-amara/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/tejaswin-amara/tejaswin-amara/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
 ## 📌 Featured projects
 
 <div align="center">
@@ -81,10 +73,10 @@ Also shipping **Campus Connect** (Java + Spring Boot/Thymeleaf event platform) a
 
 ## 📚 Research & recognition
 
-- **Federated Learning for IoMT security** — paper accepted and presented at ICACIML 2026 (March 2026)
-- Ongoing research in agri-tech AI: plant disease detection and soil health analysis
 - **Google Solution Challenge 2026** — "Build with AI" edition participant
-- **Viwentiaa 2026** — organized the campus festival's technical events; built the question bank for WATT-THE-QUIZ
+- **Viwentiaa 2026** — organized the campus festival's technical events
+- **Technical Support Specialist** — HackWithAl - Telangana's Largest 24-Hour Al Offline Hackathon By KLH Bachupally ACM Student Chapter
+- **Technical Support Specialist** — RAMpage v2.6 By KLH Deemed to be University, KLEFB IEEE Student Branch, Algorand Blockchain Club and GeeksforGeeks (GFG) Student Chapter KLHB
 
 ## 🎞️ Outside of code
 
@@ -97,7 +89,7 @@ Film photography with a Y2K/vintage lean (Kapi Cam, Dazz Cam), and an unreasonab
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejaswin-amara/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tejaswin-amara)
 
-tejaswinamara@klh.edu.in
+tejaswinamara@gmail.com
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:134e4a,100:14b8a6&height=120&section=footer&animation=fadeIn" width="100%" alt="footer banner" />
 
