@@ -12,7 +12,7 @@
 
 ```text
 $ whoami
-Tejaswin Amara — B.Tech CS&IT (Y25), KL University, Hyderabad
+Tejaswin Amara — B.Tech CSIT (Y25), KL University, Hyderabad
 
 $ roles
 Building Sovereign-OS · Founder's Officer Intern, Origins Asia
@@ -74,12 +74,12 @@ Also shipping **Campus Connect** (Java + Spring Boot/Thymeleaf event platform) a
 
 - **Google Solution Challenge 2026** — "Build with AI" edition participant
 - **Viwentiaa 2026** — organized the campus festival's technical events
-- **Technical Support Specialist** — HackWithAl - Telangana's Largest 24-Hour Al Offline Hackathon By KLH Bachupally ACM Student Chapter
+- **Technical Support Specialist** — HackWithAI - Telangana's Largest 24-Hour Al Offline Hackathon By KLH Bachupally ACM Student Chapter
 - **Technical Support Specialist** — RAMpage v2.6 By KLH Deemed to be University, KLEFB IEEE Student Branch, Algorand Blockchain Club and GeeksforGeeks (GFG) Student Chapter KLHB
 
 ## 🎞️ Outside of code
 
-Film photography with a Y2K/vintage lean (Kapi Cam, Dazz Cam), and an unreasonable amount of Mini Metro and Mini Motorways.
+I’m an outdoor person and a photography enthusiast who firmly believes that board games > screen time. When I am editing, I enjoy curating analog aesthetics and refining visuals using Dazz Cam and Snapseed. On the occasions I am glued to a screen for fun, it is usually to play an unreasonable amount of Mini Metro. Back in the real world, I channel my organizational energy into acting as the technical lead and orchestrating events for various campus festivals and hackathons.
 
 ## 📞 Contact
 
