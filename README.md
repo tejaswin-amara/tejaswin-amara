@@ -79,7 +79,10 @@ Also shipping **Campus Connect** (Java + Spring Boot/Thymeleaf event platform) a
 
 ## 🎞️ Outside of code
 
-I’m an outdoor person and a photography enthusiast who firmly believes that board games > screen time. When I am editing, I enjoy curating analog aesthetics and refining visuals using Dazz Cam and Snapseed. On the occasions I am glued to a screen for fun, it is usually to play an unreasonable amount of Mini Metro. Back in the real world, I channel my organizational energy into acting as the technical lead and orchestrating events for various campus festivals and hackathons.
+- **The Vibe:** An outdoor person and a photography enthusiast who firmly believes that board games > screen time.
+- **The Visuals:** Curating analog aesthetics and refining visuals using **Dazz Cam** and **Snapseed**.
+- **The Gameplay:** Playing an unreasonable amount of *Mini Metro* on the rare occasions I am glued to a screen for fun.
+- **The Leadership:** Channeling my organizational energy into acting as the technical lead and orchestrating events for various campus festivals and hackathons.
 
 ## 📞 Contact
 
