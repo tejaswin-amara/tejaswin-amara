@@ -28,7 +28,6 @@ Details in the bigger picture.
 - 📶 **[KL Sync](https://github.com/tejaswin-amara/kl-sync)** — an unofficial attendance-tracking PWA and ERP client for KL University
 - 🎮 **[Quiz Platform](https://github.com/tejaswin-amara/Quiz-Platform)** — a full-stack real-time multiplayer quiz app
 - 🧠 **KLU Personal Assistant** — a PWA and knowledge-base assistant for academic tracking
-- 🧰 A Claude Code skill fleet — `gstack`, `ruflo`, `humanizer`, `skill-creator`, `graphify`
 
 ## ⚡ Stack
 
