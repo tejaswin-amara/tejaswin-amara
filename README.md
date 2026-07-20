@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&title=LinkedIn)](https://www.linkedin.com/in/tejaswin-amara/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&title=GitHub)](https://github.com/tejaswin-amara)
-![Profile Views](https://komarev.com/ghpvc/?username=tejaswin-amara&color=14b8a6&style=for-the-badge&label=PROFILE+VIEWS&title=Profile+Views)
 
 </div>
 
