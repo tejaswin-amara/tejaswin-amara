@@ -12,10 +12,10 @@
 
 ```text
 $ whoami
-Tejaswin Amara — B.Tech CSIT (Y25), KL University, Hyderabad
+Tejaswin Amara — B.Tech CSIT Student @ KL University, Hyderabad
 
 $ roles
-Building Sovereign-OS · Founder's Officer Intern, Origins Asia
+AI-Assisted Developer & Tech Support Specialist · Founder's Office Intern @ Origins India
 
 $ philosophy
 Details in the bigger picture.
@@ -24,7 +24,8 @@ Details in the bigger picture.
 ## 🛠️ Currently building
 
 - 🛡️ **[Sovereign-OS](https://github.com/tejaswin-amara/Sovereign-OS)** — a PowerShell-based AI agent governance framework: audits, verified documentation, persistent agent directives, and "Singularity Doctrine," a one-shot OS sanitization script
-- 🧭 **Founder's Officer Intern, Origins Asia** — leading a strategic transition across multiple Hyderabad offices, distributed backend infrastructure, and internal project audits
+- 🧭 **Founder's Office Intern @ Origins India** — leading a strategic transition across multiple Hyderabad offices, distributed backend infrastructure, and internal project audits
+- 💬 **[ChatLens](https://github.com/tejaswin-amara/chatlens)** — an AI-powered Telegram and WhatsApp chat analyzer using Google Gemini
 - 📶 **[KL Sync](https://github.com/tejaswin-amara/kl-sync)** — an unofficial attendance-tracking PWA and ERP client for KL University
 - 🎮 **[Quiz Platform](https://github.com/tejaswin-amara/Quiz-Platform)** — a full-stack real-time multiplayer quiz app
 - 🧠 **KLU Personal Assistant** — a PWA and knowledge-base assistant for academic tracking
@@ -65,10 +66,10 @@ Details in the bigger picture.
 <a href="https://github.com/tejaswin-amara/Sovereign-OS"><img src="https://github-stats-extended.vercel.app/api/pin/?username=tejaswin-amara&repo=Sovereign-OS&hide_border=true&bg_color=0f172a&title_color=14b8a6&text_color=e2e8f0&icon_color=14b8a6&v=2" alt="Sovereign-OS" /></a>
 <a href="https://github.com/tejaswin-amara/kl-sync"><img src="https://github-stats-extended.vercel.app/api/pin/?username=tejaswin-amara&repo=kl-sync&hide_border=true&bg_color=0f172a&title_color=14b8a6&text_color=e2e8f0&icon_color=14b8a6&v=2" alt="KL Sync" /></a>
 <a href="https://github.com/tejaswin-amara/Quiz-Platform"><img src="https://github-stats-extended.vercel.app/api/pin/?username=tejaswin-amara&repo=Quiz-Platform&hide_border=true&bg_color=0f172a&title_color=14b8a6&text_color=e2e8f0&icon_color=14b8a6&v=2" alt="Quiz Platform" /></a>
+<a href="https://github.com/tejaswin-amara/chatlens"><img src="https://github-stats-extended.vercel.app/api/pin/?username=tejaswin-amara&repo=chatlens&hide_border=true&bg_color=0f172a&title_color=14b8a6&text_color=e2e8f0&icon_color=14b8a6&v=2" alt="ChatLens" /></a>
+<a href="https://github.com/tejaswin-amara/campus-connect"><img src="https://github-stats-extended.vercel.app/api/pin/?username=tejaswin-amara&repo=campus-connect&hide_border=true&bg_color=0f172a&title_color=14b8a6&text_color=e2e8f0&icon_color=14b8a6&v=2" alt="Campus Connect" /></a>
 
 </div>
-
-Also shipping **Campus Connect** (Java + Spring Boot/Thymeleaf event platform) and a **Smart Grid Load Decision Agent** (SAC reinforcement learning over a Gymnasium environment).
 
 ## 📚 Research & recognition
 
