@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:134e4a,100:14b8a6&height=200&section=header&text=Tejaswin%20Amara&fontSize=46&fontColor=e2e8f0&fontAlignY=35&animation=fadeIn&desc=Agents%2C%20audits%2C%20and%20campus%20tools.&descSize=18&descAlignY=58&descColor=94a3b8" width="100%" alt="header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:134e4a,100:14b8a6&height=200&section=header&text=Tejaswin%20Amara&fontSize=46&fontColor=e2e8f0&fontAlignY=35&animation=fadeIn&desc=Agents%2C%20audits%2C%20and%20campus%20tools.&descSize=18&descAlignY=58&descColor=94a3b8" width="100%" alt="Tejaswin Amara - Header Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=650&lines=Building+Sovereign-OS+%E2%80%94+an+AI+agent+governance+framework;Auditing+codebases+instead+of+trusting+the+changelog;Shipping+tools+for+KL+University%27s+ERP+and+attendance;Running+tech+and+strategy+for+Origins+Asia" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=650&lines=Building+Sovereign-OS+%E2%80%94+an+AI+agent+governance+framework;Auditing+codebases+instead+of+trusting+the+changelog;Shipping+tools+for+KL+University%27s+ERP+and+attendance;Running+tech+and+strategy+for+Origins+Asia" alt="Typing animation displaying current focus areas and roles" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejaswin-amara/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tejaswin-amara)
-![Profile Views](https://komarev.com/ghpvc/?username=tejaswin-amara&color=14b8a6&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&title=LinkedIn)](https://www.linkedin.com/in/tejaswin-amara/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&title=GitHub)](https://github.com/tejaswin-amara)
+![Profile Views](https://komarev.com/ghpvc/?username=tejaswin-amara&color=14b8a6&style=for-the-badge&label=PROFILE+VIEWS&title=Profile+Views)
 
 </div>
 
@@ -51,10 +51,10 @@ Details in the bigger picture.
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=tejaswin-amara&show_icons=true&hide_border=true&bg_color=0f172a&title_color=14b8a6&text_color=e2e8f0&icon_color=14b8a6" width="49%" alt="GitHub stats" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tejaswin-amara&layout=compact&hide_border=true&bg_color=0f172a&title_color=14b8a6&text_color=e2e8f0" width="38%" alt="Top languages" />
+<img src="https://github-stats-extended.vercel.app/api?username=tejaswin-amara&show_icons=true&hide_border=true&bg_color=0f172a&title_color=14b8a6&text_color=e2e8f0&icon_color=14b8a6" alt="GitHub activity and repository statistics" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tejaswin-amara&layout=compact&hide_border=true&bg_color=0f172a&title_color=14b8a6&text_color=e2e8f0" alt="Top programming languages" />
 
-<img src="https://streak-stats.demolab.com/?user=tejaswin-amara&hide_border=true&background=0f172a&ring=14b8a6&fire=14b8a6&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=64748b" width="70%" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=tejaswin-amara&hide_border=true&background=0f172a&ring=14b8a6&fire=14b8a6&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=64748b" alt="GitHub contribution streak" />
 
 </div>
 
@@ -74,8 +74,8 @@ Also shipping **Campus Connect** (Java + Spring Boot/Thymeleaf event platform) a
 
 - **Google Solution Challenge 2026** — "Build with AI" edition participant
 - **Viwentiaa 2026** — organized the campus festival's technical events
-- **Technical Support Specialist** — HackWithAI - Telangana's Largest 24-Hour Al Offline Hackathon By KLH Bachupally ACM Student Chapter
-- **Technical Support Specialist** — RAMpage v2.6 By KLH Deemed to be University, KLEFB IEEE Student Branch, Algorand Blockchain Club and GeeksforGeeks (GFG) Student Chapter KLHB
+- **Technical Support Specialist** — HackWithAI - Telangana's Largest 24-Hour AI Offline Hackathon by KLH Bachupally ACM Student Chapter
+- **Technical Support Specialist** — RAMpage v2.6 by KLH Deemed to be University, KLEFB IEEE Student Branch, Algorand Blockchain Club and GeeksforGeeks (GFG) Student Chapter KLHB
 
 ## 🎞️ Outside of code
 
@@ -88,11 +88,11 @@ Also shipping **Campus Connect** (Java + Spring Boot/Thymeleaf event platform) a
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejaswin-amara/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tejaswin-amara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&title=LinkedIn)](https://www.linkedin.com/in/tejaswin-amara/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&title=GitHub)](https://github.com/tejaswin-amara)
 
-tejaswinamara@gmail.com
+[tejaswinamara@gmail.com](mailto:tejaswinamara@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:134e4a,100:14b8a6&height=120&section=footer&animation=fadeIn" width="100%" alt="footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:134e4a,100:14b8a6&height=120&section=footer&animation=fadeIn" width="100%" alt="Tejaswin Amara - Footer Banner" />
 
 </div>
