@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 450" width="100%">
+  <defs>
+    <!-- Background Gradient to match the aesthetic -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#09090b" />
+      <stop offset="50%" stop-color="#18181b" />
+      <stop offset="100%" stop-color="#09090b" />
+    </linearGradient>
+
+    <!-- Glowing effect -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <pattern id="gridPatternSmall" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#22d3ee" stroke-opacity="0.03" stroke-width="0.5"/>
+    </pattern>
+
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&amp;display=swap');
+      
+      .header-text {
+        font-family: 'Space Grotesk', system-ui, sans-serif;
+        font-weight: 700;
+        font-size: 32px;
+        fill: #f8fafc;
+      }
+      .item-title {
+        font-family: 'Space Grotesk', system-ui, sans-serif;
+        font-weight: 700;
+        font-size: 20px;
+        fill: #22d3ee;
+      }
+      .item-desc {
+        font-family: 'Space Grotesk', system-ui, sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        fill: #cbd5e1;
+      }
+
+      /* Hover and animation effects */
+      @keyframes slideIn {
+        0% { transform: translateX(-50px); opacity: 0; }
+        100% { transform: translateX(0); opacity: 1; }
+      }
+      .list-item {
+        opacity: 0;
+        animation: slideIn 0.8s ease-out forwards;
+      }
+      .i1 { animation-delay: 0.2s; }
+      .i2 { animation-delay: 0.4s; }
+      .i3 { animation-delay: 0.6s; }
+      .i4 { animation-delay: 0.8s; }
+      .i5 { animation-delay: 1.0s; }
+      .i6 { animation-delay: 1.2s; }
+
+      @keyframes pulseBullet {
+        0%, 100% { opacity: 0.5; transform: scale(1); }
+        50% { opacity: 1; transform: scale(1.2); }
+      }
+      .bullet {
+        animation: pulseBullet 2s infinite ease-in-out;
+        fill: #818cf8;
+      }
+
+      /* Scanning line overlay */
+      @keyframes scan {
+        0% { transform: translateY(-450px); }
+        100% { transform: translateY(450px); }
+      }
+      .scanline {
+        animation: scan 5s linear infinite;
+      }
+    </style>
+  </defs>
+
+  <rect width="100%" height="100%" fill="url(#bgGrad)" />
+  <rect width="100%" height="100%" fill="url(#gridPatternSmall)" />
+
+  <!-- Content Group -->
+  <g transform="translate(100, 50)">
+    <!-- Header -->
+    <text x="0" y="20" class="header-text" filter="url(#glow)">🛠️ Currently building</text>
+    <path d="M 0 40 L 350 40" stroke="#38bdf8" stroke-width="2" stroke-opacity="0.5" filter="url(#glow)"/>
+
+    <!-- Items -->
+    <!-- Item 1 -->
+    <g class="list-item i1" transform="translate(0, 80)">
+      <circle cx="10" cy="-5" r="4" class="bullet" filter="url(#glow)"/>
+      <text x="30" y="0" class="item-title">Sovereign-OS</text>
+      <text x="30" y="25" class="item-desc">A PowerShell-based AI agent governance framework: audits, verified docs, persistent directives.</text>
+    </g>
+
+    <!-- Item 2 -->
+    <g class="list-item i2" transform="translate(0, 140)">
+      <circle cx="10" cy="-5" r="4" class="bullet" filter="url(#glow)"/>
+      <text x="30" y="0" class="item-title">Founder's Office Intern @ Origins India</text>
+      <text x="30" y="25" class="item-desc">Leading strategic transition across Hyderabad offices, distributed backend, and internal audits.</text>
+    </g>
+
+    <!-- Item 3 -->
+    <g class="list-item i3" transform="translate(0, 200)">
+      <circle cx="10" cy="-5" r="4" class="bullet" filter="url(#glow)"/>
+      <text x="30" y="0" class="item-title">Smart Grid RL Agent</text>
+      <text x="30" y="25" class="item-desc">SAC reinforcement learning model over a Gymnasium environment.</text>
+    </g>
+
+    <!-- Item 4 -->
+    <g class="list-item i4" transform="translate(0, 260)">
+      <circle cx="10" cy="-5" r="4" class="bullet" filter="url(#glow)"/>
+      <text x="30" y="0" class="item-title">KL Sync</text>
+      <text x="30" y="25" class="item-desc">An unofficial attendance-tracking PWA and ERP client for KL University.</text>
+    </g>
+
+    <!-- Item 5 -->
+    <g class="list-item i5" transform="translate(0, 320)">
+      <circle cx="10" cy="-5" r="4" class="bullet" filter="url(#glow)"/>
+      <text x="30" y="0" class="item-title">Quiz Platform</text>
+      <text x="30" y="25" class="item-desc">A full-stack real-time multiplayer quiz app.</text>
+    </g>
+
+    <!-- Item 6 -->
+    <g class="list-item i6" transform="translate(0, 380)">
+      <circle cx="10" cy="-5" r="4" class="bullet" filter="url(#glow)"/>
+      <text x="30" y="0" class="item-title">KLU Personal Assistant</text>
+      <text x="30" y="25" class="item-desc">A PWA and knowledge-base assistant for academic tracking.</text>
+    </g>
+  </g>
+
+  <!-- Scanning line overlay -->
+  <rect width="100%" height="100%" fill="rgba(34, 211, 238, 0.02)" class="scanline" />
+</svg>

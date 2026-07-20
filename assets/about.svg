@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 350" width="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#09090b" />
+      <stop offset="50%" stop-color="#18181b" />
+      <stop offset="100%" stop-color="#09090b" />
+    </linearGradient>
+
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&amp;display=swap');
+      
+      .header-text {
+        font-family: 'Space Grotesk', system-ui, sans-serif;
+        font-weight: 700;
+        font-size: 28px;
+        fill: #f8fafc;
+      }
+      .item-title {
+        font-family: 'Space Grotesk', system-ui, sans-serif;
+        font-weight: 700;
+        font-size: 16px;
+        fill: #22d3ee;
+      }
+      .item-desc {
+        font-family: 'Space Grotesk', system-ui, sans-serif;
+        font-weight: 500;
+        font-size: 14px;
+        fill: #cbd5e1;
+      }
+
+      @keyframes pulseBullet {
+        0%, 100% { opacity: 0.5; transform: scale(1); }
+        50% { opacity: 1; transform: scale(1.2); }
+      }
+      .bullet {
+        animation: pulseBullet 2s infinite ease-in-out;
+        fill: #818cf8;
+      }
+
+      /* Floating particles */
+      @keyframes floatParticle {
+        0% { transform: translateY(0px) scale(1); opacity: 0.1; }
+        50% { transform: translateY(-20px) scale(1.2); opacity: 0.4; }
+        100% { transform: translateY(0px) scale(1); opacity: 0.1; }
+      }
+      .particle { animation: floatParticle 8s ease-in-out infinite; }
+      .p1 { animation-duration: 6s; }
+      .p2 { animation-duration: 9s; animation-delay: 2s; }
+      .p3 { animation-duration: 7s; animation-delay: 4s; }
+    </style>
+  </defs>
+
+  <rect width="100%" height="100%" fill="url(#bgGrad)" />
+
+  <circle cx="150" cy="80" r="4" fill="#22d3ee" class="particle p1" />
+  <circle cx="950" cy="120" r="3" fill="#38bdf8" class="particle p2" />
+  <circle cx="350" cy="250" r="5" fill="#818cf8" class="particle p3" />
+
+  <!-- Research & Recognition -->
+  <g transform="translate(100, 50)">
+    <text x="0" y="20" class="header-text" filter="url(#glow)">📚 Research &amp; Recognition</text>
+    <path d="M 0 40 L 400 40" stroke="#38bdf8" stroke-width="2" stroke-opacity="0.5" filter="url(#glow)"/>
+
+    <g transform="translate(0, 70)">
+      <circle cx="10" cy="-4" r="4" class="bullet" filter="url(#glow)"/>
+      <text x="30" y="0" class="item-title">Google Solution Challenge 2026</text>
+      <text x="30" y="20" class="item-desc">"Build with AI" edition participant.</text>
+    </g>
+    <g transform="translate(0, 120)">
+      <circle cx="10" cy="-4" r="4" class="bullet" filter="url(#glow)"/>
+      <text x="30" y="0" class="item-title">Viwentiaa 2026</text>
+      <text x="30" y="20" class="item-desc">Organized the campus festival's technical events.</text>
+    </g>
+    <g transform="translate(0, 170)">
+      <circle cx="10" cy="-4" r="4" class="bullet" filter="url(#glow)"/>
+      <text x="30" y="0" class="item-title">Technical Support Specialist (HackWithAI)</text>
+      <text x="30" y="20" class="item-desc">Telangana's Largest 24-Hour AI Offline Hackathon.</text>
+    </g>
+    <g transform="translate(0, 220)">
+      <circle cx="10" cy="-4" r="4" class="bullet" filter="url(#glow)"/>
+      <text x="30" y="0" class="item-title">Technical Support Specialist (RAMpage v2.6)</text>
+      <text x="30" y="20" class="item-desc">By KLH Deemed to be University, KLEFB IEEE &amp; GFG Student Chapter KLHB.</text>
+    </g>
+  </g>
+
+  <!-- Outside of code -->
+  <g transform="translate(650, 50)">
+    <text x="0" y="20" class="header-text" filter="url(#glow)">🎞️ Outside of Code</text>
+    <path d="M 0 40 L 300 40" stroke="#818cf8" stroke-width="2" stroke-opacity="0.5" filter="url(#glow)"/>
+
+    <g transform="translate(0, 70)">
+      <circle cx="10" cy="-4" r="4" class="bullet" fill="#22d3ee" filter="url(#glow)"/>
+      <text x="30" y="0" class="item-title">The Vibe</text>
+      <text x="30" y="20" class="item-desc">Outdoor person, photography enthusiast, board games &gt; screen time.</text>
+    </g>
+    <g transform="translate(0, 120)">
+      <circle cx="10" cy="-4" r="4" class="bullet" fill="#22d3ee" filter="url(#glow)"/>
+      <text x="30" y="0" class="item-title">The Visuals</text>
+      <text x="30" y="20" class="item-desc">Curating analog aesthetics using Dazz Cam and Snapseed.</text>
+    </g>
+    <g transform="translate(0, 170)">
+      <circle cx="10" cy="-4" r="4" class="bullet" fill="#22d3ee" filter="url(#glow)"/>
+      <text x="30" y="0" class="item-title">The Gameplay</text>
+      <text x="30" y="20" class="item-desc">Playing an unreasonable amount of Mini Metro.</text>
+    </g>
+    <g transform="translate(0, 220)">
+      <circle cx="10" cy="-4" r="4" class="bullet" fill="#22d3ee" filter="url(#glow)"/>
+      <text x="30" y="0" class="item-title">The Leadership</text>
+      <text x="30" y="20" class="item-desc">Acting as technical lead for campus festivals and hackathons.</text>
+    </g>
+  </g>
+
+</svg>

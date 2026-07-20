@@ -10,43 +10,11 @@
 
 </div>
 
-```text
-$ whoami
-Tejaswin Amara — B.Tech CSIT Student @ KL University, Hyderabad
+<img src="assets/terminal.svg" width="100%" alt="Terminal Bio" />
 
-$ roles
-AI-Assisted Developer & Tech Support Specialist · Founder's Office Intern @ Origins India
+<img src="assets/projects.svg" width="100%" alt="Currently Building" />
 
-$ philosophy
-Details in the bigger picture.
-```
-
-## 🛠️ Currently building
-
-- 🛡️ **[Sovereign-OS](https://github.com/tejaswin-amara/Sovereign-OS)** — a PowerShell-based AI agent governance framework: audits, verified documentation, persistent agent directives, and "Singularity Doctrine," a one-shot OS sanitization script
-- 🧭 **Founder's Office Intern @ Origins India** — leading a strategic transition across multiple Hyderabad offices, distributed backend infrastructure, and internal project audits
-- 🤖 **[Smart Grid RL Agent](https://github.com/tejaswin-amara/Smart-Grid-Load-Decision-Agent)** — SAC reinforcement learning model over a Gymnasium environment
-- 📶 **[KL Sync](https://github.com/tejaswin-amara/kl-sync)** — an unofficial attendance-tracking PWA and ERP client for KL University
-- 🎮 **[Quiz Platform](https://github.com/tejaswin-amara/Quiz-Platform)** — a full-stack real-time multiplayer quiz app
-- 🧠 **KLU Personal Assistant** — a PWA and knowledge-base assistant for academic tracking
-
-## ⚡ Stack
-
-<div align="center">
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-**Frameworks & Libraries**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Frappe](https://img.shields.io/badge/Frappe-0089D6?style=for-the-badge&logo=frappe&logoColor=white)
-
-**AI & Infra**
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-</div>
+<img src="assets/stack.svg" width="100%" alt="Tech Stack" />
 
 ## 📊 GitHub stats
 
@@ -69,19 +37,7 @@ Details in the bigger picture.
 
 </div>
 
-## 📚 Research & recognition
-
-- **Google Solution Challenge 2026** — "Build with AI" edition participant
-- **Viwentiaa 2026** — organized the campus festival's technical events
-- **Technical Support Specialist** — HackWithAI - Telangana's Largest 24-Hour AI Offline Hackathon by KLH Bachupally ACM Student Chapter
-- **Technical Support Specialist** — RAMpage v2.6 by KLH Deemed to be University, KLEFB IEEE Student Branch, Algorand Blockchain Club and GeeksforGeeks (GFG) Student Chapter KLHB
-
-## 🎞️ Outside of code
-
-- **The Vibe:** An outdoor person and a photography enthusiast who firmly believes that board games > screen time.
-- **The Visuals:** Curating analog aesthetics and refining visuals using **Dazz Cam** and **Snapseed**.
-- **The Gameplay:** Playing an unreasonable amount of *Mini Metro* on the rare occasions I am glued to a screen for fun.
-- **The Leadership:** Channeling my organizational energy into acting as the technical lead and orchestrating events for various campus festivals and hackathons.
+<img src="assets/about.svg" width="100%" alt="Research and About Me" />
 
 ## 📞 Contact
 
