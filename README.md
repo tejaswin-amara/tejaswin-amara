@@ -62,9 +62,9 @@ Details in the bigger picture.
 
 <div align="center">
 
-<a href="https://github.com/tejaswin-amara/Sovereign-OS"><img src="https://github-stats-extended.vercel.app/api/pin/?username=tejaswin-amara&repo=Sovereign-OS&hide_border=true&bg_color=0f172a&title_color=14b8a6&text_color=e2e8f0&icon_color=14b8a6" alt="Sovereign-OS" /></a>
-<a href="https://github.com/tejaswin-amara/kl-sync"><img src="https://github-stats-extended.vercel.app/api/pin/?username=tejaswin-amara&repo=kl-sync&hide_border=true&bg_color=0f172a&title_color=14b8a6&text_color=e2e8f0&icon_color=14b8a6" alt="KL Sync" /></a>
-<a href="https://github.com/tejaswin-amara/Quiz-Platform"><img src="https://github-stats-extended.vercel.app/api/pin/?username=tejaswin-amara&repo=Quiz-Platform&hide_border=true&bg_color=0f172a&title_color=14b8a6&text_color=e2e8f0&icon_color=14b8a6" alt="Quiz Platform" /></a>
+<a href="https://github.com/tejaswin-amara/Sovereign-OS"><img src="https://github-stats-extended.vercel.app/api/pin/?username=tejaswin-amara&repo=Sovereign-OS&hide_border=true&bg_color=0f172a&title_color=14b8a6&text_color=e2e8f0&icon_color=14b8a6&v=1" alt="Sovereign-OS" /></a>
+<a href="https://github.com/tejaswin-amara/kl-sync"><img src="https://github-stats-extended.vercel.app/api/pin/?username=tejaswin-amara&repo=kl-sync&hide_border=true&bg_color=0f172a&title_color=14b8a6&text_color=e2e8f0&icon_color=14b8a6&v=1" alt="KL Sync" /></a>
+<a href="https://github.com/tejaswin-amara/Quiz-Platform"><img src="https://github-stats-extended.vercel.app/api/pin/?username=tejaswin-amara&repo=Quiz-Platform&hide_border=true&bg_color=0f172a&title_color=14b8a6&text_color=e2e8f0&icon_color=14b8a6&v=1" alt="Quiz Platform" /></a>
 
 </div>
 
