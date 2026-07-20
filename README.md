@@ -25,7 +25,7 @@ Details in the bigger picture.
 
 - 🛡️ **[Sovereign-OS](https://github.com/tejaswin-amara/Sovereign-OS)** — a PowerShell-based AI agent governance framework: audits, verified documentation, persistent agent directives, and "Singularity Doctrine," a one-shot OS sanitization script
 - 🧭 **Founder's Office Intern @ Origins India** — leading a strategic transition across multiple Hyderabad offices, distributed backend infrastructure, and internal project audits
-- 💬 **[ChatLens](https://github.com/tejaswin-amara/chatlens)** — an AI-powered Telegram and WhatsApp chat analyzer using Google Gemini
+- 🤖 **[Smart Grid RL Agent](https://github.com/tejaswin-amara/Smart-Grid-Load-Decision-Agent)** — SAC reinforcement learning model over a Gymnasium environment
 - 📶 **[KL Sync](https://github.com/tejaswin-amara/kl-sync)** — an unofficial attendance-tracking PWA and ERP client for KL University
 - 🎮 **[Quiz Platform](https://github.com/tejaswin-amara/Quiz-Platform)** — a full-stack real-time multiplayer quiz app
 - 🧠 **KLU Personal Assistant** — a PWA and knowledge-base assistant for academic tracking
@@ -64,10 +64,10 @@ Details in the bigger picture.
 <div align="center">
 
 <a href="https://github.com/tejaswin-amara/Sovereign-OS"><img src="https://github-stats-extended.vercel.app/api/pin/?username=tejaswin-amara&repo=Sovereign-OS&hide_border=true&bg_color=0f172a&title_color=14b8a6&text_color=e2e8f0&icon_color=14b8a6&v=2" alt="Sovereign-OS" /></a>
-<a href="https://github.com/tejaswin-amara/kl-sync"><img src="https://github-stats-extended.vercel.app/api/pin/?username=tejaswin-amara&repo=kl-sync&hide_border=true&bg_color=0f172a&title_color=14b8a6&text_color=e2e8f0&icon_color=14b8a6&v=2" alt="KL Sync" /></a>
-<a href="https://github.com/tejaswin-amara/Quiz-Platform"><img src="https://github-stats-extended.vercel.app/api/pin/?username=tejaswin-amara&repo=Quiz-Platform&hide_border=true&bg_color=0f172a&title_color=14b8a6&text_color=e2e8f0&icon_color=14b8a6&v=2" alt="Quiz Platform" /></a>
-<a href="https://github.com/tejaswin-amara/chatlens"><img src="https://github-stats-extended.vercel.app/api/pin/?username=tejaswin-amara&repo=chatlens&hide_border=true&bg_color=0f172a&title_color=14b8a6&text_color=e2e8f0&icon_color=14b8a6&v=2" alt="ChatLens" /></a>
 <a href="https://github.com/tejaswin-amara/campus-connect"><img src="https://github-stats-extended.vercel.app/api/pin/?username=tejaswin-amara&repo=campus-connect&hide_border=true&bg_color=0f172a&title_color=14b8a6&text_color=e2e8f0&icon_color=14b8a6&v=2" alt="Campus Connect" /></a>
+<a href="https://github.com/tejaswin-amara/kl-sync"><img src="https://github-stats-extended.vercel.app/api/pin/?username=tejaswin-amara&repo=kl-sync&hide_border=true&bg_color=0f172a&title_color=14b8a6&text_color=e2e8f0&icon_color=14b8a6&v=2" alt="KL Sync" /></a>
+<a href="https://github.com/tejaswin-amara/Smart-Grid-Load-Decision-Agent"><img src="https://github-stats-extended.vercel.app/api/pin/?username=tejaswin-amara&repo=Smart-Grid-Load-Decision-Agent&hide_border=true&bg_color=0f172a&title_color=14b8a6&text_color=e2e8f0&icon_color=14b8a6&v=2" alt="Smart Grid Load Decision Agent" /></a>
+<a href="https://github.com/tejaswin-amara/Quiz-Platform"><img src="https://github-stats-extended.vercel.app/api/pin/?username=tejaswin-amara&repo=Quiz-Platform&hide_border=true&bg_color=0f172a&title_color=14b8a6&text_color=e2e8f0&icon_color=14b8a6&v=2" alt="Quiz Platform" /></a>
 
 </div>
 
