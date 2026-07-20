@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:134e4a,100:14b8a6&height=200&section=header&text=Tejaswin%20Amara&fontSize=46&fontColor=e2e8f0&fontAlignY=35&animation=fadeIn&desc=Agents%2C%20audits%2C%20and%20campus%20tools.&descSize=18&descAlignY=58&descColor=94a3b8" width="100%" alt="Tejaswin Amara - Header Banner" />
+<img src="assets/header.svg" width="100%" alt="Tejaswin Amara - Header Banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=850&lines=Building+Sovereign-OS+%E2%80%94+an+AI+agent+governance+framework;Auditing+codebases+instead+of+trusting+the+changelog;Shipping+tools+for+KL+University%27s+ERP+and+attendance;Running+tech+and+strategy+for+Origins+Asia" alt="Typing animation displaying current focus areas and roles" />
 
@@ -92,6 +92,6 @@ Details in the bigger picture.
 
 [tejaswinamara@gmail.com](mailto:tejaswinamara@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:134e4a,100:14b8a6&height=120&section=footer&animation=fadeIn" width="100%" alt="Tejaswin Amara - Footer Banner" />
+<img src="assets/footer.svg" width="100%" alt="Tejaswin Amara - Footer Banner" />
 
 </div>

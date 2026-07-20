@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="100%">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="40%" stop-color="#0f5e54" />
+      <stop offset="80%" stop-color="#115e59" />
+      <stop offset="100%" stop-color="#0f766e" />
+    </linearGradient>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;800&amp;display=swap');
+      .title {
+        font-family: 'Plus Jakarta Sans', -apple-system, sans-serif;
+        font-weight: 800;
+        font-size: 58px;
+        fill: #f8fafc;
+        letter-spacing: -1.5px;
+      }
+      .subtitle {
+        font-family: 'Plus Jakarta Sans', -apple-system, sans-serif;
+        font-weight: 500;
+        font-size: 20px;
+        fill: #06b6d4;
+        letter-spacing: 1px;
+      }
+    </style>
+  </defs>
+  
+  <!-- Transparent background, banner is defined by the waving path -->
+  <path d="M0,0 L1200,0 L1200,190 C1000,240 800,160 500,230 C200,270 100,230 0,210 Z" fill="url(#grad)" />
+  
+  <!-- Text Elements aligned visually over the banner -->
+  <text x="50%" y="95" dominant-baseline="middle" text-anchor="middle" class="title">Tejaswin Amara</text>
+  <text x="50%" y="155" dominant-baseline="middle" text-anchor="middle" class="subtitle">AI-ASSISTED DEVELOPER &amp; TECH SUPPORT SPECIALIST</text>
+</svg>
