@@ -89,45 +89,57 @@
 
     <!-- Items -->
     <!-- Item 1 -->
-    <g class="list-item i1" transform="translate(0, 80)">
-      <circle cx="10" cy="-5" r="4" class="bullet" filter="url(#glow)"/>
-      <text x="30" y="0" class="item-title">Sovereign-OS</text>
-      <text x="30" y="25" class="item-desc">A PowerShell-based AI agent governance framework: audits, verified docs, persistent directives.</text>
+    <g transform="translate(0, 80)">
+      <g class="list-item i1">
+        <circle cx="10" cy="-5" r="4" class="bullet" filter="url(#glow)"/>
+        <text x="30" y="0" class="item-title">Sovereign-OS</text>
+        <text x="30" y="25" class="item-desc">A PowerShell-based AI agent governance framework: audits, verified docs, persistent directives.</text>
+      </g>
     </g>
 
     <!-- Item 2 -->
-    <g class="list-item i2" transform="translate(0, 140)">
-      <circle cx="10" cy="-5" r="4" class="bullet" filter="url(#glow)"/>
-      <text x="30" y="0" class="item-title">Founder's Office Intern @ Origins India</text>
-      <text x="30" y="25" class="item-desc">Leading strategic transition across Hyderabad offices, distributed backend, and internal audits.</text>
+    <g transform="translate(0, 140)">
+      <g class="list-item i2">
+        <circle cx="10" cy="-5" r="4" class="bullet" filter="url(#glow)"/>
+        <text x="30" y="0" class="item-title">Founder's Office Intern @ Origins India</text>
+        <text x="30" y="25" class="item-desc">Leading strategic transition across Hyderabad offices, distributed backend, and internal audits.</text>
+      </g>
     </g>
 
     <!-- Item 3 -->
-    <g class="list-item i3" transform="translate(0, 200)">
-      <circle cx="10" cy="-5" r="4" class="bullet" filter="url(#glow)"/>
-      <text x="30" y="0" class="item-title">Smart Grid RL Agent</text>
-      <text x="30" y="25" class="item-desc">SAC reinforcement learning model over a Gymnasium environment.</text>
+    <g transform="translate(0, 200)">
+      <g class="list-item i3">
+        <circle cx="10" cy="-5" r="4" class="bullet" filter="url(#glow)"/>
+        <text x="30" y="0" class="item-title">Smart Grid RL Agent</text>
+        <text x="30" y="25" class="item-desc">SAC reinforcement learning model over a Gymnasium environment.</text>
+      </g>
     </g>
 
     <!-- Item 4 -->
-    <g class="list-item i4" transform="translate(0, 260)">
-      <circle cx="10" cy="-5" r="4" class="bullet" filter="url(#glow)"/>
-      <text x="30" y="0" class="item-title">KL Sync</text>
-      <text x="30" y="25" class="item-desc">An unofficial attendance-tracking PWA and ERP client for KL University.</text>
+    <g transform="translate(0, 260)">
+      <g class="list-item i4">
+        <circle cx="10" cy="-5" r="4" class="bullet" filter="url(#glow)"/>
+        <text x="30" y="0" class="item-title">KL Sync</text>
+        <text x="30" y="25" class="item-desc">An unofficial attendance-tracking PWA and ERP client for KL University.</text>
+      </g>
     </g>
 
     <!-- Item 5 -->
-    <g class="list-item i5" transform="translate(0, 320)">
-      <circle cx="10" cy="-5" r="4" class="bullet" filter="url(#glow)"/>
-      <text x="30" y="0" class="item-title">Quiz Platform</text>
-      <text x="30" y="25" class="item-desc">A full-stack real-time multiplayer quiz app.</text>
+    <g transform="translate(0, 320)">
+      <g class="list-item i5">
+        <circle cx="10" cy="-5" r="4" class="bullet" filter="url(#glow)"/>
+        <text x="30" y="0" class="item-title">Quiz Platform</text>
+        <text x="30" y="25" class="item-desc">A full-stack real-time multiplayer quiz app.</text>
+      </g>
     </g>
 
     <!-- Item 6 -->
-    <g class="list-item i6" transform="translate(0, 380)">
-      <circle cx="10" cy="-5" r="4" class="bullet" filter="url(#glow)"/>
-      <text x="30" y="0" class="item-title">KLU Personal Assistant</text>
-      <text x="30" y="25" class="item-desc">A PWA and knowledge-base assistant for academic tracking.</text>
+    <g transform="translate(0, 380)">
+      <g class="list-item i6">
+        <circle cx="10" cy="-5" r="4" class="bullet" filter="url(#glow)"/>
+        <text x="30" y="0" class="item-title">KLU Personal Assistant</text>
+        <text x="30" y="25" class="item-desc">A PWA and knowledge-base assistant for academic tracking.</text>
+      </g>
     </g>
   </g>
 
