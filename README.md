@@ -9,7 +9,7 @@
 
 </div>
 
-<img src="assets/terminal.svg" width="100%" alt="Terminal Bio" />
+<img src="assets/terminal.svg?v=2" width="100%" alt="Terminal Bio" />
 
 <img src="assets/projects.svg" width="100%" alt="Currently Building" />
 
