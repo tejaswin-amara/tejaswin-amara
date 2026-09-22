@@ -1,0 +1,5 @@
+[exclude]
+path = [
+  "node_modules",
+  "dist",
+]
