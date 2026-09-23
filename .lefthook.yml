@@ -3,12 +3,12 @@ pre-commit:
   commands:
     biome-check:
       glob: "*.{js,ts,cjs,mjs,d.cts,d.mts,jsx,tsx,json,jsonc}"
-      run: npx @biomejs/biome check --write {staged_files}
+      run: npx @biomejs/biome check {staged_files}
     gitleaks:
-      run: gitleaks protect --staged -v
+      run: npx gitleaks protect --staged -v
     lychee:
       glob: "*.md"
-      run: lychee {staged_files}
+      run: npx lychee {staged_files}
 
 commit-msg:
   commands:

@@ -46,8 +46,8 @@
   <img src="https://github-stats-extended.vercel.app/api?username=tejaswin-amara&show_icons=true&hide_border=true&bg_color=0f172a&title_color=14b8a6&text_color=e2e8f0&icon_color=14b8a6" alt="GitHub activity and repository statistics" />
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tejaswin-amara/tejaswin-amara/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tejaswin-amara/tejaswin-amara/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tejaswin-amara/tejaswin-amara/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
