@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: profile-edge-worker
+    runtime: node
+    buildCommand: npm install && echo "no build step required"
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production

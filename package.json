@@ -1,0 +1,19 @@
+{
+  "name": "tejaswin-amara",
+  "version": "1.0.0",
+  "description": "Tejaswin's GitHub Profile",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo no test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.4",
+    "@commitlint/cli": "^19.7.1",
+    "@commitlint/config-conventional": "^19.7.1",
+    "lefthook": "^1.11.2"
+  }
+}

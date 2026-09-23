@@ -1,0 +1,6 @@
+accept = [200, 429, 999]
+
+exclude_path = [
+  "node_modules",
+  "dist"
+]
