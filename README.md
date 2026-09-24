@@ -1,12 +1,18 @@
 <div align="center">
+  <img src="assets/header.svg" alt="Tejaswin Amara — Founder's Office Intern @ Origins Asia, AI & full-stack engineer" />
 
-# Tejaswin Amara
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&title=LinkedIn)](https://www.linkedin.com/in/tejaswin-amara/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&title=GitHub)](https://github.com/tejaswin-amara)
+</div>
 
-**Software Engineer | Building resilient backends, expressive interfaces, and AI agent systems.**
+<div align="center">
+  <img src="assets/terminal.svg" alt="Terminal session introducing Tejaswin" />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&title=LinkedIn)](https://www.linkedin.com/in/tejaswin-amara/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&title=GitHub)](https://github.com/tejaswin-amara)
+## 👤 About
 
+<div align="center">
+  <img src="assets/about.svg" alt="About Tejaswin — background, recognition, and interests outside of code" />
 </div>
 
 ## 📊 Live Telemetry
@@ -17,27 +23,20 @@
 
 ## 🛠 Tech Stack
 
-- **Computer Science & IT (CSIT)**
-- **Full-stack Java / Spring Boot**
-- **Python / FastAPI**
-- **TypeScript**
-- **AI Agent Systems**
-- **Data Architecture**
-
 <div align="center">
-  <img src="https://profile-edge-worker.onrender.com/api/stack.svg" alt="Dynamic Tech Stack Matrix" />
+  <img src="assets/stack.svg" alt="Languages, frameworks, and tools" />
 </div>
 
 ## 📌 Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Sovereign-OS**](https://github.com/tejaswin-amara/Sovereign-OS) | AI agent governance framework | TypeScript, AI SDK |
-| [**campus-connect**](https://github.com/tejaswin-amara/campus-connect) | University ERP & attendance tooling | Java, Spring Boot |
-| [**kl-sync**](https://github.com/tejaswin-amara/kl-sync) | Automation and API services | Python, FastAPI |
+<div align="center">
+  <img src="assets/projects.svg" alt="Projects currently in progress" />
+</div>
 
 <div align="center">
-  <img src="https://profile-edge-worker.onrender.com/api/projects.svg" alt="Dynamic Projects Showcase" />
+
+[Sovereign-OS](https://github.com/tejaswin-amara/Sovereign-OS) · [KL Sync](https://github.com/tejaswin-amara/kl-sync) · [Quiz Platform](https://github.com/tejaswin-amara/Quiz-Platform)
+
 </div>
 
 ## 📈 Activity
@@ -50,4 +49,8 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tejaswin-amara/tejaswin-amara/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tejaswin-amara/tejaswin-amara/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+<div align="center">
+  <img src="assets/footer.svg" alt="" />
 </div>
