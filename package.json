@@ -1,19 +1,12 @@
 {
-  "name": "tejaswin-amara",
-  "version": "1.0.0",
-  "description": "Tejaswin's GitHub Profile",
-  "main": "index.js",
+  "name": "tejaswin-amara-profile",
+  "version": "2.0.0",
+  "private": true,
+  "description": "GitHub profile assets and documentation for Tejaswin Amara",
   "scripts": {
-    "start": "node server.js",
-    "test": "echo no test"
+    "test": "node -e \"console.log('Profile repository: static assets and Markdown only.')\""
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "@biomejs/biome": "^1.9.4",
-    "@commitlint/cli": "^19.7.1",
-    "@commitlint/config-conventional": "^19.7.1",
-    "lefthook": "^1.11.2"
+  "engines": {
+    "node": ">=20"
   }
 }
