@@ -21,17 +21,21 @@ AI systems · software engineering · applied research · photography
 
 ## About
 
+<div align="center">
+  <img src="assets/about.svg" alt="Research, recognition, and interests outside software" />
+</div>
+
 I build practical software at the intersection of **AI, intelligent systems, full-stack engineering, and developer tooling**.
 
 My work focuses on turning specifications into working systems: designing the architecture, implementing the core logic, validating the result, and keeping the repository maintainable.
 
 Outside software, I work with **digital photography** and visual design.
 
-<div align="center">
-  <img src="assets/about.svg" alt="Research, recognition, and interests outside software" />
-</div>
-
 ## What I Work On
+
+<div align="center">
+  <img src="assets/stack.svg" alt="Languages, frameworks, and tools" />
+</div>
 
 - **AI & intelligent systems** — NLP, transformers, AI agents, applied ML, and decision systems
 - **Software engineering** — TypeScript, Java, Python, APIs, testing, CI/CD, and system architecture
@@ -39,11 +43,11 @@ Outside software, I work with **digital photography** and visual design.
 - **Academic engineering** — DSA, algorithms, systems programming, and project-based development
 - **Visual work** — digital photography, visual composition, and technical design
 
-<div align="center">
-  <img src="assets/stack.svg" alt="Languages, frameworks, and tools" />
-</div>
-
 ## Selected Projects
+
+<div align="center">
+  <img src="assets/projects.svg" alt="Featured projects" />
+</div>
 
 | Project | Focus |
 | --- | --- |
@@ -54,16 +58,6 @@ Outside software, I work with **digital photography** and visual design.
 | [AgriGuard AI](https://github.com/tejaswin-amara/AgriGuard-AI) | AI-assisted agricultural application |
 | [Fake News Detection](https://github.com/tejaswin-amara/Fake-News-Detection-Using-NLP-LSTM-and-BERT-Transformer-Models) | NLP classification with LSTM and BERT-based approaches |
 | [Fake News Dashboard](https://github.com/tejaswin-amara/fake-news-dashboard) | Application layer for the fake-news detection work |
-
-<div align="center">
-  <img src="assets/projects.svg" alt="Featured projects" />
-</div>
-
-## Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tejaswin-amara/tejaswin-amara/output/github-contribution-grid-snake.gif" alt="GitHub contribution grid snake animation" />
-</div>
 
 ---
 
