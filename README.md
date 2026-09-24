@@ -62,11 +62,7 @@ Outside software, I work with **digital photography** and visual design.
 ## Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tejaswin-amara/tejaswin-amara/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tejaswin-amara/tejaswin-amara/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/tejaswin-amara/tejaswin-amara/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/tejaswin-amara/tejaswin-amara/output/github-contribution-grid-snake.gif" alt="GitHub contribution grid snake animation" />
 </div>
 
 ---
