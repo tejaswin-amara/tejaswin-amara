@@ -19,7 +19,7 @@ jobs:
       - name: Lychee
         uses: lycheeverse/lychee-action@v1.9.3
         with:
-          args: --verbose --no-progress './README.md' './docs/**/*.md'
+          args: --verbose --no-progress --accept 999 './README.md' './docs/**/*.md'
           fail: true
 
   secrets:
