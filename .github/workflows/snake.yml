@@ -2,8 +2,8 @@ name: Generate contribution snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # regenerate every 6 hours
-  workflow_dispatch:         # allows a manual run from the Actions tab
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -14,29 +14,33 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v7
+      - name: Checkout
+        uses: actions/checkout@v7
 
-      - name: Generate the snake SVGs
+      - name: Generate snake animations
         uses: Platane/snk@v3
-        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif
 
-      - name: Verify SVGs were generated
+      - name: Verify generated files
         run: |
-          echo "Contents of dist/:"
-          ls -la dist/
+          set -e
           test -s dist/github-contribution-grid-snake.svg
           test -s dist/github-contribution-grid-snake-dark.svg
+          test -s dist/github-contribution-grid-snake.gif
+          file dist/github-contribution-grid-snake.*
 
-      - name: Publish to the output branch
+      - name: Publish to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: dist
           publish_branch: output
           force_orphan: true
+          commit_message: "chore: update contribution snake"
