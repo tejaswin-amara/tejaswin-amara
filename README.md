@@ -49,15 +49,6 @@ Outside software, I work with **digital photography** and visual design.
   <img src="assets/projects.svg" alt="Featured projects" />
 </div>
 
-| Project | Focus |
-| --- | --- |
-| [Sovereign-OS](https://github.com/tejaswin-amara/Sovereign-OS) | AI-oriented operating-system and systems engineering work |
-| [KL Sync](https://github.com/tejaswin-amara/kl-sync) | Student-focused software platform |
-| [Quiz Platform](https://github.com/tejaswin-amara/Quiz-Platform) | Real-time algorithm-driven quiz platform |
-| [Campus Connect](https://github.com/tejaswin-amara/campus-connect) | Campus event aggregation and management |
-| [AgriGuard AI](https://github.com/tejaswin-amara/AgriGuard-AI) | AI-assisted agricultural application |
-| [Fake News Detection](https://github.com/tejaswin-amara/Fake-News-Detection-Using-NLP-LSTM-and-BERT-Transformer-Models) | NLP classification with LSTM and BERT-based approaches |
-| [Fake News Dashboard](https://github.com/tejaswin-amara/fake-news-dashboard) | Application layer for the fake-news detection work |
 
 ---
 
