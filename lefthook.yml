@@ -1,0 +1,9 @@
+pre-commit:
+  parallel: true
+  commands:
+    svg-check:
+      run: python3 scripts/build_profile.py --check
+    unit-tests:
+      run: python3 -m unittest discover -s tests -v
+    secrets:
+      run: gitleaks git --pre-commit --staged --redact --no-banner

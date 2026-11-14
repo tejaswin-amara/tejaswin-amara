@@ -1,0 +1,8 @@
+title = "gitleaks config"
+
+[extend]
+useDefault = true
+
+[allowlist]
+description = "synthetic test fixtures only"
+paths = ['''(^|/)tests?/fixtures/''']

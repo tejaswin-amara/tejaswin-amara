@@ -1,0 +1,5 @@
+no_progress = true
+max_retries = 2
+accept = ["200", "204", "429"]
+exclude = ["^https?://example\\.invalid"]
+exclude_path = ["node_modules", ".git"]

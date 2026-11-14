@@ -1,12 +1,16 @@
-# OS
+# OS & Editor artifacts
 .DS_Store
 Thumbs.db
+*.swp
+.vscode/
+.idea/
 
-# Environment / secrets
-.env
-.env.*
-!.env.example
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
 
-# Local tooling
-node_modules/
+# Generated snake output & pipeline logs
 dist/
+.pipeline/
+evidence.md

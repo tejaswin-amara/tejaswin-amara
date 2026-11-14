@@ -1,167 +1,77 @@
-<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Graphic" viewBox="0 0 1200 280" width="100%" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo5ODU4ZTgyYi02ZmE2LTRkMTctODBhZS04MDNiM2E4MTE0OGMAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaKvwlCgySYq1mHwFpwMhKH4AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo3ZjQ2M2NmZi1hZTBlLTQ2ODMtOWYzYy1iNjE5M2Q1NmU3Y2NscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoKlSO3qqWDKtr9y2k8FhrKQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggcByH+90GDVQipfJhUD3bErfKSMmLCXonlveAeWW7RrykZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaAFxzsVswy+xGOrPYfmKwoAAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCClqT2+mST50ZA7eMwPm502Tj3Kd9HKO6l+mpI1z16YwmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBirZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjk4NThlODJiLTZmYTYtNGQxNy04MGFlLTgwM2IzYTgxMTQ4Yy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmEwMjRiZDA1LWMwMTQtNDNlYy1iMzM0LTM5ZmE4NWE4MjQ5MnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBwHIf73QYNVCKl8mFQPdsSt8pIyYsJeieW94B5ZbtGvKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggNs4rd/Nj9fdgf5FVjIIHM+LnZhq0/Q+JKbgYfzHCADSiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggs9274XN0eC1e99P1chGGg1JprA2TQsZy8HcAkQAIiZh0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQLK1J0snzHE/czkdRKH3SDZpiUf5Ep45e85B7NDEroQQWDSprU6uskly1ojU4cNtbjdv4s7PzsBkg4EYkcrMPXc=</c2pa:manifest></metadata>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title-header desc-header" viewBox="0 0 1200 275" width="100%">
+  <title id="title-header">Tejaswin Amara — Chief Technology and Strategy Officer, Founder&#x27;s Office at Origins Asia, and B.Tech CSIT Engineer</title>
+  <desc id="desc-header">Banner card displaying Tejaswin Amara&#x27;s name, role at Origins Asia, B.Tech CSIT at KL University Hyderabad, OSCI &#x27;26 Campus Lead role, and core engineering pillars.</desc>
   <defs>
-    <!-- Dark Tech Gradients -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#09090b" />
-      <stop offset="50%" stop-color="#18181b" />
-      <stop offset="100%" stop-color="#09090b" />
+      <stop offset="0%" stop-color="#090d16" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#090d16" />
     </linearGradient>
-
-    <!-- Animated Glowing Orbs Gradients -->
-    <radialGradient id="orb1" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.3"/>
-      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    <linearGradient id="tealAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#005461" />
+      <stop offset="50%" stop-color="#018790" />
+      <stop offset="100%" stop-color="#22d3ee" />
+    </linearGradient>
+    <radialGradient id="orbTeal" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00b7b5" stop-opacity="0.22" />
+      <stop offset="100%" stop-color="#005461" stop-opacity="0" />
     </radialGradient>
-    <radialGradient id="orb2" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#818cf8" stop-opacity="0.2"/>
-      <stop offset="100%" stop-color="#818cf8" stop-opacity="0"/>
+    <radialGradient id="orbIndigo" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.16" />
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0" />
     </radialGradient>
-
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="5" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
-
-    <filter id="glow-text" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-    <pattern id="gridPattern" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#22d3ee" stroke-opacity="0.05" stroke-width="1"/>
+    <pattern id="gridPattern" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#00b7b5" stroke-opacity="0.06" stroke-width="1" />
     </pattern>
-    <pattern id="gridPatternSmall" width="10" height="10" patternUnits="userSpaceOnUse">
-      <path d="M 10 0 L 0 0 0 10" fill="none" stroke="#22d3ee" stroke-opacity="0.02" stroke-width="0.5"/>
-    </pattern>
-
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&amp;display=swap');
-      
-      .title {
-        font-family: 'Space Grotesk', system-ui, sans-serif;
-        font-weight: 700;
-        font-size: 64px;
-        fill: #f8fafc;
-        letter-spacing: -2px;
+      .title { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 800; font-size: 56px; fill: #f8fafc; letter-spacing: -1px; }
+      .subtitle { font-family: ui-monospace, 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace; font-weight: 600; font-size: 15px; fill: #22d3ee; letter-spacing: 2.5px; }
+      .tagline { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 500; font-size: 16px; fill: #cbd5e1; }
+      .section-title { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 700; font-size: 24px; fill: #f8fafc; }
+      .card-title { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 700; font-size: 16px; fill: #22d3ee; }
+      .card-meta { font-family: ui-monospace, 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace; font-weight: 600; font-size: 12px; fill: #38bdf8; }
+      .card-desc { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 400; font-size: 13.5px; fill: #cbd5e1; }
+      .cat-label { font-family: ui-monospace, 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace; font-weight: 700; font-size: 13px; fill: #94a3b8; letter-spacing: 1.5px; }
+      .badge-text { font-family: ui-monospace, 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace; font-weight: 600; font-size: 13.5px; fill: #f8fafc; }
+      .term-prompt { font-family: ui-monospace, 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace; font-weight: 700; font-size: 14.5px; fill: #00b7b5; }
+      .term-cmd { font-family: ui-monospace, 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace; font-weight: 600; font-size: 14.5px; fill: #38bdf8; }
+      .term-out { font-family: ui-monospace, 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace; font-weight: 400; font-size: 14px; fill: #e2e8f0; }
+      .footer-text { font-family: ui-monospace, 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace; font-weight: 500; font-size: 13px; fill: #94a3b8; letter-spacing: 1px; }
+      @keyframes pulseGlow {
+        0%, 100% { opacity: 0.55; }
+        50% { opacity: 1; }
       }
-      .title-glow {
-        fill: #22d3ee;
-        opacity: 0.8;
+      @keyframes blinkCursor {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
       }
-      .subtitle {
-        font-family: 'Space Grotesk', system-ui, sans-serif;
-        font-weight: 500;
-        font-size: 18px;
-        fill: #94a3b8;
-        letter-spacing: 4px;
-      }
-
-      /* Orb animations */
-      @keyframes floatOrb1 {
-        0%, 100% { transform: translate(0, 0) scale(1); }
-        50% { transform: translate(50px, -30px) scale(1.1); }
-      }
-      @keyframes floatOrb2 {
-        0%, 100% { transform: translate(0, 0) scale(1); }
-        50% { transform: translate(-40px, 40px) scale(0.9); }
-      }
-      .orb-1 { animation: floatOrb1 15s ease-in-out infinite; transform-origin: center; }
-      .orb-2 { animation: floatOrb2 20s ease-in-out infinite; transform-origin: center; }
-
-      /* Grid pan */
-      @keyframes panGrid {
-        0% { transform: translateY(0); }
-        100% { transform: translateY(40px); }
-      }
-      .moving-grid { animation: panGrid 4s linear infinite; }
-
-      /* Data lines */
-      @keyframes dash {
-        0% { stroke-dashoffset: 1000; opacity: 0; }
-        10% { opacity: 1; }
-        90% { opacity: 1; }
-        100% { stroke-dashoffset: 0; opacity: 0; }
-      }
-      .line {
-        stroke-dasharray: 200 800;
-        animation: dash 8s linear infinite;
-      }
-      .line-1 { animation-delay: 0s; stroke: #22d3ee; }
-      .line-2 { animation-delay: -4s; stroke: #818cf8; }
-      .line-3 { animation-delay: -2s; stroke: #38bdf8; }
-
-      /* Typing cursor */
-      @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
-      .cursor { animation: blink 1s step-end infinite; }
-      
-      /* Subtle scanline */
-      @keyframes scan {
-        0% { transform: translateY(-300px); }
-        100% { transform: translateY(300px); }
-      }
-      .scanline {
-        animation: scan 6s linear infinite;
+      .pulse { animation: pulseGlow 4s ease-in-out infinite; }
+      .cursor { animation: blinkCursor 1.2s step-end infinite; fill: #22d3ee; }
+      @media (prefers-reduced-motion: reduce) {
+        *, *::before, *::after {
+          animation-duration: 0.01ms !important;
+          animation-iteration-count: 1 !important;
+          transition-duration: 0.01ms !important;
+        }
       }
     </style>
   </defs>
-
-  <!-- Background Base -->
-  <rect width="100%" height="100%" fill="url(#bgGrad)" />
-
-  <!-- Animated Orbs -->
-  <circle cx="20%" cy="30%" r="300" fill="url(#orb1)" class="orb-1" />
-  <circle cx="80%" cy="70%" r="400" fill="url(#orb2)" class="orb-2" />
-
-  <!-- Animated Grids -->
-  <g class="moving-grid">
-    <rect x="-40" y="-40" width="1300" height="400" fill="url(#gridPatternSmall)" />
-    <rect x="-40" y="-40" width="1300" height="400" fill="url(#gridPattern)" />
+  <rect width="1200" height="275" rx="12" fill="url(#bgGrad)" stroke="#1e293b" stroke-width="2" />
+  <rect width="1200" height="275" rx="12" fill="url(#gridPattern)" />
+  <circle cx="220" cy="90" r="240" fill="url(#orbTeal)" class="pulse" />
+  <circle cx="980" cy="190" r="260" fill="url(#orbIndigo)" class="pulse" />
+  <rect x="60" y="28" width="1080" height="3" rx="1.5" fill="url(#tealAccent)" opacity="0.85" />
+  <text x="120" y="128" font-family="ui-monospace, monospace" font-size="68" font-weight="700" fill="#00b7b5" opacity="0.18">&lt;</text>
+  <text x="1080" y="128" text-anchor="end" font-family="ui-monospace, monospace" font-size="68" font-weight="700" fill="#00b7b5" opacity="0.18">/&gt;</text>
+  <text x="600" y="108" text-anchor="middle" class="title">Tejaswin Amara</text>
+  <text x="600" y="152" text-anchor="middle" class="subtitle">CHIEF TECHNOLOGY &amp; STRATEGY OFFICER · FOUNDER&#x27;S OFFICE @ ORIGINS ASIA<tspan class="cursor">_</tspan></text>
+  <text x="600" y="192" text-anchor="middle" class="tagline">B.Tech CSIT @ KL University (Hyderabad) · Campus Lead @ OSCI &#x27;26 · Published ML &amp; IoMT Researcher</text>
+  <g transform="translate(270, 218)">
+    <rect x="0" y="0" width="205" height="30" rx="6" fill="#0f172a" stroke="#018790" stroke-width="1.2" />
+    <text x="102" y="19" text-anchor="middle" class="card-meta">AI &amp; Agent Governance</text>
+    <rect x="220" y="0" width="215" height="30" rx="6" fill="#0f172a" stroke="#018790" stroke-width="1.2" />
+    <text x="327" y="19" text-anchor="middle" class="card-meta">Distributed Systems &amp; C</text>
+    <rect x="450" y="0" width="210" height="30" rx="6" fill="#0f172a" stroke="#018790" stroke-width="1.2" />
+    <text x="555" y="19" text-anchor="middle" class="card-meta">Full-Stack &amp; MLOps</text>
   </g>
-
-  <!-- Data Lines (Tech vibe) -->
-  <g filter="url(#glow)" opacity="0.6">
-    <path class="line line-1" d="M -100 80 L 300 80 L 400 120 L 1300 120" fill="none" stroke-width="2" />
-    <path class="line line-2" d="M -100 200 L 800 200 L 900 160 L 1300 160" fill="none" stroke-width="1.5" />
-    <path class="line line-3" d="M 1300 50 L 700 50 L 600 90 L -100 90" fill="none" stroke-width="1" />
-  </g>
-
-  <!-- Dark overlay mask to blend grid and lines at edges -->
-  <linearGradient id="edgeMask" x1="0%" y1="0%" x2="100%" y2="0%">
-    <stop offset="0%" stop-color="#09090b" stop-opacity="1"/>
-    <stop offset="10%" stop-color="#09090b" stop-opacity="0"/>
-    <stop offset="90%" stop-color="#09090b" stop-opacity="0"/>
-    <stop offset="100%" stop-color="#09090b" stop-opacity="1"/>
-  </linearGradient>
-  <rect width="100%" height="100%" fill="url(#edgeMask)" />
-
-  <linearGradient id="edgeMaskY" x1="0%" y1="0%" x2="0%" y2="100%">
-    <stop offset="0%" stop-color="#09090b" stop-opacity="1"/>
-    <stop offset="10%" stop-color="#09090b" stop-opacity="0"/>
-    <stop offset="80%" stop-color="#09090b" stop-opacity="0"/>
-    <stop offset="100%" stop-color="#09090b" stop-opacity="1"/>
-  </linearGradient>
-  <rect width="100%" height="100%" fill="url(#edgeMaskY)" />
-
-  <!-- Scanning line overlay -->
-  <rect width="100%" height="100%" fill="rgba(34, 211, 238, 0.03)" class="scanline" />
-
-  <!-- Typography -->
-  <!-- Glowing back text -->
-  <text x="50%" y="125" dominant-baseline="middle" text-anchor="middle" class="title title-glow" filter="url(#glow-text)">Tejaswin Amara</text>
-  <!-- Foreground text -->
-  <text x="50%" y="125" dominant-baseline="middle" text-anchor="middle" class="title">Tejaswin Amara</text>
-  
-  <text x="50%" y="185" dominant-baseline="middle" text-anchor="middle" class="subtitle">
-    FOUNDER'S OFFICE INTERN @ ORIGINS ASIA<tspan fill="#22d3ee" class="cursor">_</tspan>
-  </text>
-  
-  <!-- Subtle decorative brackets -->
-  <text x="15%" y="125" dominant-baseline="middle" text-anchor="middle" font-family="Space Grotesk" font-size="80" fill="#22d3ee" opacity="0.1">&lt;</text>
-  <text x="85%" y="125" dominant-baseline="middle" text-anchor="middle" font-family="Space Grotesk" font-size="80" fill="#22d3ee" opacity="0.1">&gt;</text>
 </svg>

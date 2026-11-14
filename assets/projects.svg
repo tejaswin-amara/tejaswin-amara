@@ -1,148 +1,121 @@
-<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Graphic" viewBox="0 0 1200 520" width="100%" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo0OGQ0MjAwMi05NzMyLTQ5MDctOWVjNy1hN2ZkNDA3ZmU1NTAAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaMjCCn599LvUv6QfCTQZ76kAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoxZGQzMDhkYy1iOGMyLTQ2OTQtODM5MC0zOWU5YWNiYzc1ZjVscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo1FRQrY0DSjL5NM/nSgekygAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggFViAUlxxSdwXI7lwvt5GfOhh7hOFlVOxxY8A7uXvS7SkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaHjQLv6UDWheWa6PxYpncSQAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBLkA/SmmVqMIaMZag/t2q9yIDgOdDEek/HAvRzOMniF2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBirZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjQ4ZDQyMDAyLTk3MzItNDkwNy05ZWM3LWE3ZmQ0MDdmZTU1MC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmE2ODcxNjVkLWQyMTYtNGNjMS1hYjc0LWYwZGE2ZjBmNjAyOHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAVWIBSXHFJ3BcjuXC+3kZ86GHuE4WVU7HFjwDu5e9LtKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggTBM6jZ65vhnc5ECcqU8/8UOSf88TPpKxWfNEsMfNvVKiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggyMd9nhk2mztgW9Yrq/F+b19n84LBYCLNYygdPGt9OY90Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQH674E1XP2oRVAVt4VyX/9PmPAnSq/LcEH65BxdtWewCKfb7SdGnVGaxPmC/tf5mHNIaV+TYMN5WG+OQGlMCtzo=</c2pa:manifest></metadata>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title-projects desc-projects" viewBox="0 0 1200 490" width="100%">
+  <title id="title-projects">Featured Engineering Systems and Open-Source Repositories by Tejaswin Amara</title>
+  <desc id="desc-projects">Grid of eight flagship engineering systems: CampusConnect 2.0, Sovereign-OS, FounderGate, ChatLens, KL Sync and KLU ERP Autofill, Resume-Job Matching Engine, Fake News Detection MLOps, and Linux C Systems.</desc>
   <defs>
-    <!-- Background Gradient to match the aesthetic -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#09090b" />
-      <stop offset="50%" stop-color="#18181b" />
-      <stop offset="100%" stop-color="#09090b" />
+      <stop offset="0%" stop-color="#090d16" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#090d16" />
     </linearGradient>
-
-    <!-- Glowing effect -->
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="3" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
-
-    <pattern id="gridPatternSmall" width="20" height="20" patternUnits="userSpaceOnUse">
-      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#22d3ee" stroke-opacity="0.03" stroke-width="0.5"/>
+    <linearGradient id="tealAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#005461" />
+      <stop offset="50%" stop-color="#018790" />
+      <stop offset="100%" stop-color="#22d3ee" />
+    </linearGradient>
+    <radialGradient id="orbTeal" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00b7b5" stop-opacity="0.22" />
+      <stop offset="100%" stop-color="#005461" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="orbIndigo" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.16" />
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="gridPattern" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#00b7b5" stroke-opacity="0.06" stroke-width="1" />
     </pattern>
-
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&amp;display=swap');
-      
-      .header-text {
-        font-family: 'Space Grotesk', system-ui, sans-serif;
-        font-weight: 700;
-        font-size: 32px;
-        fill: #f8fafc;
+      .title { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 800; font-size: 56px; fill: #f8fafc; letter-spacing: -1px; }
+      .subtitle { font-family: ui-monospace, 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace; font-weight: 600; font-size: 15px; fill: #22d3ee; letter-spacing: 2.5px; }
+      .tagline { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 500; font-size: 16px; fill: #cbd5e1; }
+      .section-title { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 700; font-size: 24px; fill: #f8fafc; }
+      .card-title { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 700; font-size: 16px; fill: #22d3ee; }
+      .card-meta { font-family: ui-monospace, 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace; font-weight: 600; font-size: 12px; fill: #38bdf8; }
+      .card-desc { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 400; font-size: 13.5px; fill: #cbd5e1; }
+      .cat-label { font-family: ui-monospace, 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace; font-weight: 700; font-size: 13px; fill: #94a3b8; letter-spacing: 1.5px; }
+      .badge-text { font-family: ui-monospace, 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace; font-weight: 600; font-size: 13.5px; fill: #f8fafc; }
+      .term-prompt { font-family: ui-monospace, 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace; font-weight: 700; font-size: 14.5px; fill: #00b7b5; }
+      .term-cmd { font-family: ui-monospace, 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace; font-weight: 600; font-size: 14.5px; fill: #38bdf8; }
+      .term-out { font-family: ui-monospace, 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace; font-weight: 400; font-size: 14px; fill: #e2e8f0; }
+      .footer-text { font-family: ui-monospace, 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace; font-weight: 500; font-size: 13px; fill: #94a3b8; letter-spacing: 1px; }
+      @keyframes pulseGlow {
+        0%, 100% { opacity: 0.55; }
+        50% { opacity: 1; }
       }
-      .item-title {
-        font-family: 'Space Grotesk', system-ui, sans-serif;
-        font-weight: 700;
-        font-size: 20px;
-        fill: #22d3ee;
+      @keyframes blinkCursor {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
       }
-      .item-desc {
-        font-family: 'Space Grotesk', system-ui, sans-serif;
-        font-weight: 500;
-        font-size: 16px;
-        fill: #cbd5e1;
-      }
-
-      /* Hover and animation effects */
-      @keyframes slideIn {
-        0% { transform: translateX(-50px); opacity: 0; }
-        100% { transform: translateX(0); opacity: 1; }
-      }
-      .list-item {
-        opacity: 0;
-        animation: slideIn 0.8s ease-out forwards;
-      }
-      .i1 { animation-delay: 0.2s; }
-      .i2 { animation-delay: 0.4s; }
-      .i3 { animation-delay: 0.6s; }
-      .i4 { animation-delay: 0.8s; }
-      .i5 { animation-delay: 1.0s; }
-      .i6 { animation-delay: 1.2s; }
-
-      @keyframes pulseBullet {
-        0%, 100% { opacity: 0.5; transform: scale(1); }
-        50% { opacity: 1; transform: scale(1.2); }
-      }
-      .bullet {
-        animation: pulseBullet 2s infinite ease-in-out;
-        fill: #818cf8;
-      }
-
-      /* Scanning line overlay */
-      @keyframes scan {
-        0% { transform: translateY(-450px); }
-        100% { transform: translateY(450px); }
-      }
-      .scanline {
-        animation: scan 5s linear infinite;
+      .pulse { animation: pulseGlow 4s ease-in-out infinite; }
+      .cursor { animation: blinkCursor 1.2s step-end infinite; fill: #22d3ee; }
+      @media (prefers-reduced-motion: reduce) {
+        *, *::before, *::after {
+          animation-duration: 0.01ms !important;
+          animation-iteration-count: 1 !important;
+          transition-duration: 0.01ms !important;
+        }
       }
     </style>
   </defs>
-
-  <rect width="100%" height="100%" fill="url(#bgGrad)" />
-  <rect width="100%" height="100%" fill="url(#gridPatternSmall)" />
-
-  <!-- Content Group -->
-  <g transform="translate(100, 50)">
-    <!-- Header -->
-    <text x="0" y="20" class="header-text" filter="url(#glow)">🛠️ Currently building</text>
-    <path d="M 0 40 L 350 40" stroke="#38bdf8" stroke-width="2" stroke-opacity="0.5" filter="url(#glow)"/>
-
-    <!-- Items -->
-    <!-- Item 1 -->
-    <g transform="translate(0, 80)">
-      <g class="list-item i1">
-        <circle cx="10" cy="-5" r="4" class="bullet" filter="url(#glow)"/>
-        <text x="30" y="0" class="item-title">Sovereign-OS</text>
-        <text x="30" y="25" class="item-desc">A PowerShell-based AI agent governance framework: audits, verified docs, persistent directives.</text>
-      </g>
+  <rect width="1200" height="490" rx="12" fill="url(#bgGrad)" stroke="#1e293b" stroke-width="2" />
+  <rect width="1200" height="490" rx="12" fill="url(#gridPattern)" />
+  <g transform="translate(56, 36)">
+    <text x="0" y="20" class="section-title">Featured Engineering Systems &amp; Open-Source Repositories</text>
+    <rect x="0" y="32" width="620" height="2.5" rx="1.2" fill="url(#tealAccent)" />
+    <g transform="translate(0, 62)">
+      <rect x="0" y="0" width="530" height="82" rx="8" fill="#090d16" stroke="#018790" stroke-width="1.3" />
+      <circle cx="20" cy="24" r="4.5" fill="#22d3ee" class="pulse" />
+      <text x="36" y="28" class="card-title">CampusConnect 2.0</text>
+      <text x="36" y="47" class="card-meta">Java 21 · Spring Boot 3.4 · TypeScript · MySQL 8 · Resilience4j</text>
+      <text x="36" y="67" class="card-desc">Single-college campus event middleware with RBAC, waitlist concurrency control, Flyway migrations &amp; Bucket4j rate limits.</text>
     </g>
-
-    <!-- Item 2 -->
-    <g transform="translate(0, 140)">
-      <g class="list-item i2">
-        <circle cx="10" cy="-5" r="4" class="bullet" filter="url(#glow)"/>
-        <text x="30" y="0" class="item-title">Founder's Office Intern @ Origins Asia</text>
-        <text x="30" y="25" class="item-desc">Leading strategic transition across Hyderabad offices, distributed backend, and internal audits.</text>
-      </g>
+    <g transform="translate(555, 62)">
+      <rect x="0" y="0" width="530" height="82" rx="8" fill="#090d16" stroke="#018790" stroke-width="1.3" />
+      <circle cx="20" cy="24" r="4.5" fill="#22d3ee" class="pulse" />
+      <text x="36" y="28" class="card-title">Sovereign-OS</text>
+      <text x="36" y="47" class="card-meta">Go · PowerShell Core · Model Context Protocol (MCP)</text>
+      <text x="36" y="67" class="card-desc">Zero-drift cloud-native AI agent operating system with atomic execution gates, persistent directives &amp; verification loops.</text>
     </g>
-
-    <!-- Item 3 -->
-    <g transform="translate(0, 200)">
-      <g class="list-item i3">
-        <circle cx="10" cy="-5" r="4" class="bullet" filter="url(#glow)"/>
-        <text x="30" y="0" class="item-title">Smart Grid RL Agent</text>
-        <text x="30" y="25" class="item-desc">SAC reinforcement learning model over a Gymnasium environment.</text>
-      </g>
+    <g transform="translate(0, 158)">
+      <rect x="0" y="0" width="530" height="82" rx="8" fill="#090d16" stroke="#018790" stroke-width="1.3" />
+      <circle cx="20" cy="24" r="4.5" fill="#22d3ee" class="pulse" />
+      <text x="36" y="28" class="card-title">FounderGate</text>
+      <text x="36" y="47" class="card-meta">Multi-Agent LLM Router · Safety Gate · HTML/TS</text>
+      <text x="36" y="67" class="card-desc">Adversarial multi-agent customer discovery &amp; GTM engine enforcing prompt-injection sanitization and a human judgment gate.</text>
     </g>
-
-    <!-- Item 4 -->
-    <g transform="translate(0, 260)">
-      <g class="list-item i4">
-        <circle cx="10" cy="-5" r="4" class="bullet" filter="url(#glow)"/>
-        <text x="30" y="0" class="item-title">KL Sync</text>
-        <text x="30" y="25" class="item-desc">An unofficial attendance-tracking PWA and ERP client for KL University.</text>
-      </g>
+    <g transform="translate(555, 158)">
+      <rect x="0" y="0" width="530" height="82" rx="8" fill="#090d16" stroke="#018790" stroke-width="1.3" />
+      <circle cx="20" cy="24" r="4.5" fill="#22d3ee" class="pulse" />
+      <text x="36" y="28" class="card-title">ChatLens</text>
+      <text x="36" y="47" class="card-meta">Python · Gemini API · Docker · PostgreSQL (pgvector) · Redis</text>
+      <text x="36" y="67" class="card-desc">Containerized AI conversation intelligence and diagnostic platform for Telegram &amp; WhatsApp exports with semantic search.</text>
     </g>
-
-    <!-- Item 5 -->
-    <g transform="translate(0, 320)">
-      <g class="list-item i5">
-        <circle cx="10" cy="-5" r="4" class="bullet" filter="url(#glow)"/>
-        <text x="30" y="0" class="item-title">Quiz Platform</text>
-        <text x="30" y="25" class="item-desc">A full-stack real-time multiplayer quiz app.</text>
-      </g>
+    <g transform="translate(0, 254)">
+      <rect x="0" y="0" width="530" height="82" rx="8" fill="#090d16" stroke="#018790" stroke-width="1.3" />
+      <circle cx="20" cy="24" r="4.5" fill="#22d3ee" class="pulse" />
+      <text x="36" y="28" class="card-title">KL Sync &amp; KLU ERP Autofill</text>
+      <text x="36" y="47" class="card-meta">Next.js PWA · TypeScript · Manifest V3 · ONNX Runtime Web</text>
+      <text x="36" y="67" class="card-desc">Real-time attendance tracker PWA with LTPS calculator paired with an on-device neural OCR CAPTCHA solver extension.</text>
     </g>
-
-    <!-- Item 6 -->
-    <g transform="translate(0, 380)">
-      <g class="list-item i6">
-        <circle cx="10" cy="-5" r="4" class="bullet" filter="url(#glow)"/>
-        <text x="30" y="0" class="item-title">KLU Personal Assistant</text>
-        <text x="30" y="25" class="item-desc">A PWA and knowledge-base assistant for academic tracking.</text>
-      </g>
+    <g transform="translate(555, 254)">
+      <rect x="0" y="0" width="530" height="82" rx="8" fill="#090d16" stroke="#018790" stroke-width="1.3" />
+      <circle cx="20" cy="24" r="4.5" fill="#22d3ee" class="pulse" />
+      <text x="36" y="28" class="card-title">Resume–Job Matching &amp; Talent Engine</text>
+      <text x="36" y="47" class="card-meta">Python · Network Flow · String DP · NP-Hard Approximation</text>
+      <text x="36" y="67" class="card-desc">Hand-built algorithmic core implementing Dinic max-flow, KMP/Rabin-Karp, edit-distance DP &amp; parallel matching.</text>
+    </g>
+    <g transform="translate(0, 350)">
+      <rect x="0" y="0" width="530" height="82" rx="8" fill="#090d16" stroke="#018790" stroke-width="1.3" />
+      <circle cx="20" cy="24" r="4.5" fill="#22d3ee" class="pulse" />
+      <text x="36" y="28" class="card-title">Fake News Detection (BERT &amp; LSTM MLOps)</text>
+      <text x="36" y="47" class="card-meta">Python · Transformers · Platt Calibration · XAI · KS Drift SRE</text>
+      <text x="36" y="67" class="card-desc">Production-grade verifiable NLP classification pipeline with sub-ms serving, explainable attribution &amp; drift monitoring.</text>
+    </g>
+    <g transform="translate(555, 350)">
+      <rect x="0" y="0" width="530" height="82" rx="8" fill="#090d16" stroke="#018790" stroke-width="1.3" />
+      <circle cx="20" cy="24" r="4.5" fill="#22d3ee" class="pulse" />
+      <text x="36" y="28" class="card-title">Linux Allocator, Task Engine &amp; SETU Network</text>
+      <text x="36" y="47" class="card-meta">C (POSIX Threads) · libmyalloc.so · /proc VFS · OSPF &amp; QoS</text>
+      <text x="36" y="67" class="card-desc">Custom C heap allocator with /proc monitor, monotonic thread-pool HTTP server &amp; campus internetwork-as-code (SETU).</text>
     </g>
   </g>
-
-  <!-- Scanning line overlay -->
-  <rect width="100%" height="100%" fill="rgba(34, 211, 238, 0.02)" class="scanline" />
 </svg>

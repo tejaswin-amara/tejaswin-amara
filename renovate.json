@@ -1,0 +1,12 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["config:recommended", "helpers:pinGitHubActionDigests"],
+  "minimumReleaseAge": "14 days",
+  "internalChecksFilter": "strict",
+  "prConcurrentLimit": 5,
+  "vulnerabilityAlerts": {"minimumReleaseAge": null, "labels": ["security"]},
+  "lockFileMaintenance": {"enabled": true, "schedule": ["before 5am on monday"]},
+  "packageRules": [
+    {"matchUpdateTypes": ["major"], "dependencyDashboardApproval": true}
+  ]
+}
